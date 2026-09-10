@@ -58,6 +58,14 @@ The tradeoff is operational responsibility: deployment, state, secrets, and upgr
 
 **Docs:** [Gateway overview](GATEWAY_URL) · [Load balancing](LOAD_BALANCING_URL) · [Fallbacks](FALLBACKS_URL)
 
+### Bifrost
+
+**Type:** Self-hosted OpenAI-compatible AI gateway.
+
+Bifrost unifies access to multiple providers through one API and supports automatic failover, load balancing, semantic caching, and governance controls.
+
+**Docs:** [Gateway setup](https://docs.getbifrost.ai/quickstart/gateway/setting-up) · [Provider configuration](https://docs.getbifrost.ai/quickstart/gateway/provider-configuration) · [Fallbacks and load balancing](https://docs.getbifrost.ai/features/retries-and-fallbacks)
+
 ### Portkey AI Gateway (now PRISMA AIRS AI Gateway)
 
 **Type:** Managed or self-hosted gateway with routing and governance controls.
