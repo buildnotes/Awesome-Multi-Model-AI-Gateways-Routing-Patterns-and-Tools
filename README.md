@@ -148,3 +148,13 @@ CometAPI is a direct hosted option when the priority is broad model access throu
 OpenRouter and Vercel add managed provider routing, LiteLLM emphasizes self-hosted control, and PRISMA AIRS and Cloudflare emphasize policy-heavy gateway routing.
 
 The right choice depends on how much routing policy the gateway should own and how much the application should control.
+
+## Additional Hosted Gateway
+
+### APIClaw
+
+**Type:** Hosted flat-rate multi-model AI API gateway with OpenAI-compatible access.
+
+APIClaw provides one OpenAI-compatible API for Claude, GPT, Kimi, Qwen, DeepSeek, and GLM. It is a managed option for teams that want multi-model access without operating a proxy, with plans from $19/month and a 50-request free trial.
+
+**Website:** https://apiclaw.biz
